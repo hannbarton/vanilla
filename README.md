@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is practice writing a RoR application.
 
-Things you may want to cover:
+Vanilla-bean is a teeny tiny application for estate planning.
+Based on watching the most recent 2023 just vanilla webinair and reading the about page,
+this app is trying to mimic just vanilla functionality.
 
-* Ruby version
+video [https://www.justvanilla.com/webinars/the-state-of-estate-planning-2023]
+info [https://www.justvanilla.com/onboard-and-organize-estate-plans]
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+My mini vanilla-bean can do the following:
+- [ ] An advisor can plan multiple estates and has many clients
+- [ ] Add key information about the family and financial information
+- [ ] Create diagrams based on family and financial information
